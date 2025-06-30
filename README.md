@@ -1,6 +1,6 @@
 # Vue 課堂練習HW1 - 收藏網址⼩⼯具
 <img src="https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
-<img src="https://img.shields.io/badge/Creator-康嘉恩-blue">
+<img src="https://img.shields.io/badge/Author-康嘉恩-blue">
 
 ## 程式啟動方式
 ### Step1 安裝所需套件
